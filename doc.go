@@ -11,7 +11,7 @@
 // The SDK also includes helpful utilities on top of the AWS APIs that add additional
 // capabilities and functionality. For example, the Amazon S3 Download and Upload
 // Manager will automatically split up large objects into multiple parts and
-// transfer them concurrently
+// transfer them concurrently.
 //
 // See the s3manager package documentation for more information.
 // https://docs.aws.amazon.com/sdk-for-go/api/service/s3/s3manager/
