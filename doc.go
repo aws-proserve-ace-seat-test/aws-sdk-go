@@ -6,7 +6,7 @@
 //
 // The SDK removes the complexity of coding directly against a web service
 // interface. It hides a lot of the lower-level plumbing, such as authentication,
-// request retries, and error handling
+// request retries, and error handling.
 //
 // The SDK also includes helpful utilities on top of the AWS APIs that add additional
 // capabilities and functionality. For example, the Amazon S3 Download and Upload
